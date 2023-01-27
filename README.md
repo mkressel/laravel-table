@@ -1,6 +1,6 @@
 # Laravel Tables
 [![Made for Laravel 5](https://img.shields.io/badge/laravel-%3E%3D5.0.0-brightgreen)](http://laravel.com/)
-[![Latest Tag](https://img.shields.io/github/tag/JakubJachym/laravel-table.svg)](https://github.com/JakubJachym/laravel-table/releases)
+[![Latest Tag](https://img.shields.io/github/tag/mkressel/laravel-table.svg)](https://github.com/mkressel/laravel-table/releases)
 
 This package contains flexible ways of rendering Eloquent collections as dynamic HTML tables.  This includes
 techniques for sortable columns, customizable cell data, automatic pagination, ~~user-definable rows-per-page, batch 
@@ -12,7 +12,7 @@ action handling, and extensible filtering~~ (coming soon).
 Require the package in your `composer.json`:
 
 ```json
-"jakubjachym/laravel-table": "dev-master"
+"mkressel/laravel-table": "dev-master"
 ```
 
 Add the service provider to `config/app.php` and, optionally, the Facade:
