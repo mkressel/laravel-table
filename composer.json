@@ -1,5 +1,5 @@
 {
-    "name": "jakubjachym/laravel-table",
+    "name": "mkressel/laravel-table",
     "description": "Table functionality for Laravel models",
     "keywords": ["laravel","table","html","model","sorting","filtering"],
     "license": "MIT",
@@ -13,6 +13,12 @@
             "name": "Greg Brock",
             "email": "contact@gbrock.com",
             "homepage": "http://gbrock.com",
+            "role": "Developer"
+        },
+         {
+            "name": "Matt Kressel",
+            "email": "mkressel@sunraycomputer.com",
+            "homepage": "http://matthewkressel.net",
             "role": "Developer"
         }
     ],
